@@ -2,7 +2,7 @@
 
 This is a Python implementation for **Geometric Graph Construction (GGC)** from data features, as described in our paper:
  
-Yifan Qian, Paul Expert, Pietro Panzarasa, and Mauricio Barahona, [Geometric graphs from data to aid classification tasks with graph convolutional networks](https://arxiv.org/abs/2005.04081).
+Yifan Qian, Paul Expert, Pietro Panzarasa, and Mauricio Barahona (2021), [Geometric graphs from data to aid classification tasks with graph convolutional networks](https://www.cell.com/patterns/fulltext/S2666-3899(21)00057-X), *Patterns*.
 
 
 Installation
@@ -24,10 +24,11 @@ Cite
 ------------
 Please cite our paper if you use this code in your own work:
 ```
-@article{qian2020geometric,
+@article{qian2021geometric,
   title={Geometric graphs from data to aid classification tasks with graph convolutional networks},
   author={Qian, Yifan and Expert, Paul and Panzarasa, Pietro and Barahona, Mauricio},
-  journal={arXiv:2005.04081},
-  year={2020}
+  journal={Patterns},
+  doi={10.1016/j.patter.2021.100237},
+  year={2021}
 }
 ```
