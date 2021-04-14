@@ -28,7 +28,11 @@ Please cite our paper if you use this code in your own work:
   title={Geometric graphs from data to aid classification tasks with graph convolutional networks},
   author={Qian, Yifan and Expert, Paul and Panzarasa, Pietro and Barahona, Mauricio},
   journal={Patterns},
-  doi={10.1016/j.patter.2021.100237},
-  year={2021}
+  volume={2},
+  number={4},
+  pages={100237},
+  year={2021},
+  oi={10.1016/j.patter.2021.100237},
+  publisher={Elsevier}
 }
 ```
